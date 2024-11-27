@@ -54,4 +54,10 @@ an N-terminal projection domain, a proline-rich domain (PRD), a microtubule-bind
 <img src="https://github.com/user-attachments/assets/19e18be1-8893-4522-b0e5-714ba7c23580" width="600">
 </div>
 
-而我们研究的是PHF-1，其修饰为pS396/pS404以及S400的O-GlcNAcylation
+而我们研究的是PHF-1，其修饰为pS396/pS404以及S400的O-GlcNAcylation。在这篇13年的文章中https://doi.org/10.1016/j.neuropharm.2013.11.025，作者用Thiamet G提高S400的糖基化水平，降低了Tau的磷酸化水平，以及病理性的Tau的水平。
+
+病理性Tau的获取方式：病理 tau 在全脑匀浆(低速自旋分数; Lss)中在64kD 左右表现为一个致密的高分子量带，但在高速离心(S1分数)后在上清液中不存在，这可以将正常与病理 tau 分开。
+
+<div align=center>
+<img src="https://github.com/user-attachments/assets/9317a86b-49f7-42f6-812f-4bc4bb4dd9a9" width="600">
+</div>
