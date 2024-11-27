@@ -51,7 +51,7 @@ an N-terminal projection domain, a proline-rich domain (PRD), a microtubule-bind
 * Tau蛋白的聚集往往由paired helical filaments (PHF)，比如PHF6(一种6肽，序列为306-VQIVYK-311，在Tau蛋白的第3个MTbinding也就是微管蛋白结合区)介导，因此抑制PHF6也可以被视为一种抑制Tau聚集的效果。
 
 <div align=center>
-<img src="https://github.com/user-attachments/assets/19e18be1-8893-4522-b0e5-714ba7c23580" width="500">
+<img src="https://github.com/user-attachments/assets/19e18be1-8893-4522-b0e5-714ba7c23580" width="1200">
 </div>
 
 而我们研究的是PHF-1，其修饰为pS396/pS404以及S400的O-GlcNAcylation
