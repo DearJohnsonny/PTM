@@ -62,7 +62,7 @@ Tau蛋白的各部分标注：an N-terminal projection domain, a proline-rich do
 * 实际上Tau糖基化的水平如下图，也是这仨最高
 
 <div align=center>
-<img src="https://github.com/user-attachments/assets/102eb4af-dcd1-4852-bfc8-a654bcb73705" width="600">
+<img src="https://github.com/user-attachments/assets/102eb4af-dcd1-4852-bfc8-a654bcb73705" width="200">
 </div>
 
 
