@@ -24,3 +24,10 @@ OGT is about 110 kDa
 </div>
 
 OGA is about 100 kDa
+OGA inhibitor: Thiamet G 是一种高效且选择性极强的 O-GlcNAcase 抑制剂，其抑制常数Ki值为 21 nM，显示出对目标酶的强大亲和力。更为重要的是，Thiamet G 的选择性远高于人溶酶体氨基己糖苷酶，高出大约37,000 倍。这意味着在抑制 O-GlcNAcase 的同时，它几乎不会对其他酶产生干扰。这种高度的选择性使得 Thiamet G 在研究 O-GlcNAcase 的功能以及相关疾病治疗中具有重要的应用价值。
+
+<div align=center>
+<img src="https://github.com/user-attachments/assets/0232ee70-d87b-4cf6-bc00-314e3da527d7" width="300">
+</div>
+
+Thiamet G的结构
