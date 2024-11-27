@@ -32,3 +32,11 @@ OGA inhibitor: Thiamet G 是一种高效且选择性极强的 O-GlcNAcase 抑制
 </div>
 
 Thiamet G的结构
+
+### Tau
+* Tau蛋白的聚集往往由PHF6(一种6肽，序列为306-VQIVYK-311，在Tau蛋白的第3个MTbinding区)介导，因此
+
+<div align=center>
+<img src="https://github.com/user-attachments/assets/19e18be1-8893-4522-b0e5-714ba7c23580" width="500">
+</div>
+
