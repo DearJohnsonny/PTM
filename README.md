@@ -46,7 +46,9 @@ Tau蛋白的结构见下图：
 <img src="https://github.com/user-attachments/assets/a33cff21-e26d-4a0e-b682-d57551361539" width="1200">
 </div>
 
-an N-terminal projection domain, a proline-rich domain (PRD), a microtubule-binding domain (MTBD), and a C-terminal region
+PrimarystructureofhumanTauprotein(2N4Risoformof441residues) indicatingAT8(pS202/pT205)andPHF-1(pS396/pS404)phospho-epitopes(red)and O-GlcNAcsites(green).Sites that can be either phosphorylated or O-GlcNAcylated are indicated in blue
+ 
+Tau蛋白的各部分标注：an N-terminal projection domain, a proline-rich domain (PRD), a microtubule-binding domain (MTBD), and a C-terminal region
 
 * Tau蛋白的聚集往往由paired helical filaments (PHF)，比如PHF6(一种6肽，序列为306-VQIVYK-311，在Tau蛋白的第3个MTbinding也就是微管蛋白结合区)介导，因此抑制PHF6也可以被视为一种抑制Tau聚集的效果。
 
@@ -54,7 +56,15 @@ an N-terminal projection domain, a proline-rich domain (PRD), a microtubule-bind
 <img src="https://github.com/user-attachments/assets/19e18be1-8893-4522-b0e5-714ba7c23580" width="600">
 </div>
 
-而我们研究的是PHF-1，其修饰为pS396/pS404以及S400的O-GlcNAcylation。在这篇13年的文章中https://doi.org/10.1016/j.neuropharm.2013.11.025，作者用Thiamet G提高S400的糖基化水平，降低了Tau的磷酸化水平，以及病理性的Tau的水平。
+而我们研究的是PHF-1，其修饰为pS396/pS404以及S400的O-GlcNAcylation。
+* 在这篇13年的文章中https://doi.org/10.1016/j.neuropharm.2013.11.025，作者用Thiamet G提高S400的糖基化水平，降低了Tau的磷酸化水平，以及病理性的Tau的水平。
+* OGT对Tau的调控主要就是S400，S412和S413
+* 实际上Tau糖基化的水平如下图，也是这仨最高
+
+<div align=center>
+<img src="https://github.com/user-attachments/assets/102eb4af-dcd1-4852-bfc8-a654bcb73705" width="600">
+</div>
+
 
 病理性Tau的获取方式：病理 tau 在全脑匀浆(低速自旋分数; Lss)中在64kD 左右表现为一个致密的高分子量带，但在高速离心(S1分数)后在上清液中不存在，这可以将正常与病理 tau 分开。
 
