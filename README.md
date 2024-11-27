@@ -34,11 +34,17 @@ OGA inhibitor: Thiamet G 是一种高效且选择性极强的 O-GlcNAcase 抑制
 Thiamet G的结构
 
 ### Tau
+一种微管(microtubule)结合蛋白
+
+<div align=center>
+<img src="https://github.com/user-attachments/assets/ad393441-dbc9-4646-ab18-e8c816e1ab53" width="500">
+</div>
+
 Tau蛋白的结构查阅这一篇17年的nature
 
 Fitzpatrick, A., Falcon, B., He, S. et al. Cryo-EM structures of tau filaments from Alzheimer’s disease. Nature 547, 185–190 (2017). https://doi.org/10.1038/nature23002
 
-* Tau蛋白的聚集往往由PHF6(一种6肽，序列为306-VQIVYK-311，在Tau蛋白的第3个MTbinding区)介导，因此抑制PHF6也可以被视为一种抑制Tau聚集的效果。
+* Tau蛋白的聚集往往由PHF6(一种6肽，序列为306-VQIVYK-311，在Tau蛋白的第3个MTbinding也就是微管蛋白结合区)介导，因此抑制PHF6也可以被视为一种抑制Tau聚集的效果。
 
 <div align=center>
 <img src="https://github.com/user-attachments/assets/19e18be1-8893-4522-b0e5-714ba7c23580" width="500">
