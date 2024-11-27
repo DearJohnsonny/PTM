@@ -5,4 +5,6 @@
 ### O-GlcNAcylation
 #### basic introduction
 
-![image](https://github.com/user-attachments/assets/7513f2cd-e6a9-4970-95a6-f389686bff7d)
+<div align=center>
+<img src="https://github.com/user-attachments/assets/b4d19bc5-1aec-4dd0-8cd5-5a73b2d8f026" width="600">
+</div>
