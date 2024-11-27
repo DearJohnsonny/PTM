@@ -46,7 +46,7 @@ Tau蛋白的结构见下图：
 <img src="https://github.com/user-attachments/assets/a33cff21-e26d-4a0e-b682-d57551361539" width="1200">
 </div>
 
-PrimarystructureofhumanTauprotein(2N4Risoformof441residues) indicatingAT8(pS202/pT205)andPHF-1(pS396/pS404)phospho-epitopes(red)and O-GlcNAcsites(green).Sites that can be either phosphorylated or O-GlcNAcylated are indicated in blue
+Primary structure of human Tau protein(2N4R isoform of 441 residues) indicating AT8(pS202/pT205)and PHF-1(pS396/pS404)phospho-epitopes(red) and O-GlcNAc sites(green).Sites that can be either phosphorylated or O-GlcNAcylated are indicated in blue
  
 Tau蛋白的各部分标注：an N-terminal projection domain, a proline-rich domain (PRD), a microtubule-binding domain (MTBD), and a C-terminal region
 
